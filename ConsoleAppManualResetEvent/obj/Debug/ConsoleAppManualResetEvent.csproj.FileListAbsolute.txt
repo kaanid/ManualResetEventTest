@@ -1,0 +1,6 @@
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\bin\Debug\ConsoleAppManualResetEvent.exe.config
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\bin\Debug\ConsoleAppManualResetEvent.exe
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\bin\Debug\ConsoleAppManualResetEvent.pdb
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\obj\Debug\ConsoleAppManualResetEvent.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\obj\Debug\ConsoleAppManualResetEvent.exe
+d:\用户目录\我的文档\visual studio 2017\Projects\ConsoleAppManualResetEvent\ConsoleAppManualResetEvent\obj\Debug\ConsoleAppManualResetEvent.pdb
